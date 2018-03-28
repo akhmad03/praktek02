@@ -9,6 +9,8 @@ public class tvaksi {
         
         tv1.nonton();
         System.out.println(" total pembayaran ="+tv1.totalharga());
+        tv1.menonton();
+        
         
     }
 }

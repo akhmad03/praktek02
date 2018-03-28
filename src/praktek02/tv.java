@@ -18,8 +18,7 @@ public class tv {
        return total;
    }
    
-   void nonton() {
+   void menonton() {
        System.out.println("total pembayaran: "+totalharga());
-       tv1.nonton();
    }
 }
