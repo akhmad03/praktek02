@@ -12,4 +12,9 @@ public class tv {
         
     }
     
+   Integer totalharga () {
+       Integer total;
+       total = hargatv * jumlahtv;
+       return total;
+   }
 }
