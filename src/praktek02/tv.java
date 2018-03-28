@@ -17,4 +17,9 @@ public class tv {
        total = hargatv * jumlahtv;
        return total;
    }
+   
+   void nonton() {
+       System.out.println("total pembayaran: "+totalharga());
+       tv1.nonton();
+   }
 }
