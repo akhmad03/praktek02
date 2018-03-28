@@ -10,6 +10,13 @@ public class tv {
         hargatv = 15000000;
         jumlahtv= 10;
     }
+
+    public tv(Integer hargatv, Integer jumlahtv) {
+        this.hargatv = hargatv;
+        this.jumlahtv = jumlahtv;
+    }
+    
+    
     
    void nonton() {
         System.out.println(" hargatv : "+hargatv);

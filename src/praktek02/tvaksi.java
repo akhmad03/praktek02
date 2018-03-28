@@ -13,5 +13,8 @@ public class tvaksi {
         
         tv tv2 = new tv();
         tv2.nonton();
+        
+        tv tv3 = new tv(1500000,10);
+        tv3.nonton();
     }
 }
