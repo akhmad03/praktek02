@@ -5,6 +5,9 @@ package praktek02;
 public class tv {
     Integer hargatv;
     Integer jumlahtv;
+
+    public tv() {
+    }
     
    void nonton() {
         System.out.println(" hargatv : "+hargatv);
