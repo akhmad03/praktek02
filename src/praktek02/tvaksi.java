@@ -11,6 +11,7 @@ public class tvaksi {
         System.out.println(" total pembayaran ="+tv1.totalharga());
         tv1.menonton();
         
-        
+        tv tv2 = new tv();
+        tv2.nonton();
     }
 }

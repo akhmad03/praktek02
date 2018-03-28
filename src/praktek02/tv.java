@@ -7,6 +7,8 @@ public class tv {
     Integer jumlahtv;
 
     public tv() {
+        hargatv = 15000000;
+        jumlahtv= 10;
     }
     
    void nonton() {
